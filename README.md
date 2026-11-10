@@ -21,5 +21,4 @@ Para utilizarla:
 Para clonarlo:
 ```bash
 git clone https://github.com/inova-dev7/bigotes.git
-
 Autor: Josep
